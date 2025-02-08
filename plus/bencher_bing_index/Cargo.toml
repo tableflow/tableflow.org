@@ -1,6 +1,5 @@
 [package]
 name = "bencher_bing_index"
-license.workspace = true
 version.workspace = true
 authors.workspace = true
 edition.workspace = true

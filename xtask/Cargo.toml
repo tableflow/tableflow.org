@@ -1,6 +1,5 @@
 [package]
 name = "xtask"
-license.workspace = true
 version.workspace = true
 authors.workspace = true
 edition.workspace = true

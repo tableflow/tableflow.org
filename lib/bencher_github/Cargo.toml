@@ -1,6 +1,5 @@
 [package]
 name = "bencher_github"
-license.workspace = true
 version.workspace = true
 authors.workspace = true
 edition.workspace = true
